@@ -1,7 +1,8 @@
 # Portfolio
 
 **Wavelet Packet Tranform Analysis of NMR Spectroscopy Signals in Classifying Rheumatoid Arthritis and Osteoarthritis**
-![WPT_DB2_SHANNON_FEATURES.png](WPT_DB2_SHANNON_FEATURES.png=250x250)
+![WPT_DB2_SHANNON_FEATURES.png](WPT_DB2_SHANNON_FEATURES.png)
+<img src="WPT_DB2_SHANNON_FEATURES.png" alt="WPT_DB2_SHANNON_FEATURES" width="500">
 ![DWT Power SVM and LR](https://github.com/user-attachments/assets/e52fc8e0-9590-45c3-8993-3ee0d1bafd73)
 
 **Analysis of Deforestation and Flight Tracks of Lesser Spotted Eagles (Clanga pomarina) in Latvia using Computational Methods in MATLAB**
