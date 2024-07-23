@@ -1,6 +1,6 @@
 # Portfolio
 
-**WAVELET PACKET TRANSFORM ANALYSIS OF NMR SPECTROSCOPTY SIGNALS IN CLASSIFYING RHEUMATOID ARTHRITIS AND OSTEOARTHRITIS**
+**Wavelet Packet Tranform Analysis of NMR Spectroscopy Signals in Classifying Rheumatoid Arthritis and Osteoarthritis**
 ![WPT_DB2_SHANNON_FEATURES.png](WPT_DB2_SHANNON_FEATURES.png)
 ![DWT Power SVM and LR](https://github.com/user-attachments/assets/e52fc8e0-9590-45c3-8993-3ee0d1bafd73)
 
