@@ -12,7 +12,7 @@
 
 <img src="https://github.com/user-attachments/assets/f32a2f63-b70d-4cf2-bafa-229c36398078" alt="SIGMOID FUNCTION" width="500">
 
-<h3>SIR MODEL: A theoretical Measles Outbreak with and without Vaccine Intervention<h3>
+<h3>SIR MODEL: A Theoretical Measles Outbreak with and without Vaccine Intervention<h3>
 
 <img src="SIR.PNG" alt="SIR" width="500">
 
