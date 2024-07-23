@@ -5,6 +5,7 @@
 ![DWT Power SVM and LR](https://github.com/user-attachments/assets/e52fc8e0-9590-45c3-8993-3ee0d1bafd73)
 
 **Analysis of Deforestation and Flight Tracks of Lesser Spotted Eagles (Clanga pomarina) in Latvia using Computational Methods in MATLAB**
+
 ![LATVIA MAP](https://github.com/user-attachments/assets/82ddf615-8e02-4ad5-8ebd-ef43e3a39642)
 ![SIGMOID FUNCTION](https://github.com/user-attachments/assets/f32a2f63-b70d-4cf2-bafa-229c36398078)
 
